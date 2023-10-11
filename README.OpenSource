@@ -1,9 +1,10 @@
 [
     {
         "Name": "farmhash",                   # 上游开源软件名全称
-        "License": "GPLStyleLicense"           # 上游开源软件中包含的许可证信息
+        "License": "MIT"           # 上游开源软件中包含的许可证信息
         "License File":"COPYING"    # 许可证所在文件路径
         "Version Number": "816a4ae622e964763ca0862d9dbd19324a1eaf45",
+        "Owner": "huangjiewen@huawei.com",
         "Upstream URL": "https://chromium.googlesource.com/external/github.com/google/farmhash.git@816a4ae622e964763ca0862d9dbd19324a1eaf45",   # 上游软件包发布地址
         "Description": "第三方软件farmhash"           # 开源软件功能描述
     }
